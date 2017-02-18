@@ -1,4 +1,7 @@
-cd <Œcie¿ka>
-mkdir <nowy folder>
-git init <nowe rwpozytorium>
-git satus <skan folderu>
+cd                                                                                            <œcie¿ka>
+mkdir <nazwa>                                                                         <nowy folder>
+git init                                                                                       <nowe rwpozytorium>
+git satus                                                                                   <skan folderu>
+git add <nazwa>                                                                       <œledzi plik>
+git commit <nazwa>                                                                  <two¿y commit>
+git diff head                                                                               <wyœwietlenie ró¿nicy w pikach>  
