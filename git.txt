@@ -1,0 +1,4 @@
+cd <Œcie¿ka>
+mkdir <nowy folder>
+git init <nowe rwpozytorium>
+git satus <skan folderu>
